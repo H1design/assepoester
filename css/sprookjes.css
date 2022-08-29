@@ -1,0 +1,58 @@
+/* css behorende bij sprookjes */
+
+header{
+
+  width: auto;
+  height: 150px;
+  background-color: #F2B7C6;
+    }
+
+
+  h1{
+    color: #CC76A1;
+    text-align: center;
+    padding-top: 25px;
+  }
+
+  .ui-state-active,
+  .ui-widget-content .ui-state-active,
+  .ui-widget-header .ui-state-active,
+  a.ui-button:active,
+  .ui-button:active,
+  .ui-button.ui-state-active:hover {
+  	border: 1px solid #22031f;
+  	background: #dd9296;
+  	font-weight: normal;
+  	color: #ffffff;
+  }
+
+  img{
+  float: left;
+  padding: 5px;
+}
+.horizontaal{
+  width: 200px;
+  height: 125px;
+}
+.verticaal{
+  width: 125px;
+  height: 200px;
+}
+p{
+  background-color: #87B38D;
+  color: #22031f;
+  padding: 5px;
+}
+
+#sprookjes{
+  background-color: #DD9296;
+}
+
+footer{
+  height: 100px;
+  background-color: #DD9296;
+  text-align: center;
+  margin-top: 15px;
+  padding: 15px;
+
+}
